@@ -1,0 +1,156 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Poppins',sans-serif;
+}
+
+.home{
+    display: flex;
+    margin-top: -9rem;
+}
+.productCantainet{
+    display: flex;
+    width: 78%;
+    padding:20px;
+    flex-wrap: wrap;
+    margin-left: 21rem;
+    justify-content:space-around;
+    margin-top: 6rem;
+}
+  .sidebar{
+    width: 345px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 89%;
+    margin-top: 6rem;
+    background-color:wheat;
+    border:0.5rem solid lemonchiffon;
+
+  }
+  .leftSideBaar{
+    width: 30rem;
+     margin-left: 77.5rem; 
+    height: 88%;
+    margin-top: 6.5rem;
+    display:flex;
+    justify-content:first baseline;
+    align-items: center;
+    flex-direction: column;
+    padding:4rem;
+    border-radius:2rem;
+    border:1rem solid black;
+    position: fixed;
+
+  }
+  .outerMain{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 1.5rem;
+      
+  }
+  .inner{
+      margin-top: 2rem;
+      font: 1.3em sans-serif;
+    }
+      .for_H_w{
+    height: 1.2rem;
+    width: 1.2rem;
+  }
+
+  .Single{
+      height: 20rem;
+      width: 24rem;
+      margin-top: 11rem;
+      margin-left: 0.2rem;
+    }
+
+    .Singley{
+        height: 20rem;
+        font-weight: bold;
+        width: 24rem;
+    }
+    .Flex-outer{
+    display: flex;
+}
+.btn-primary{
+    height: 3rem;
+    margin-top: 5rem;
+    width:15rem;
+}
+.DisingALl{
+  display: flex;
+  font-size: 1.5rem;
+  justify-content:space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+.Image{
+  height: 10rem;
+  width:10rem;
+}
+
+.ImageH_W{
+  height:4rem;
+  width:4rem;
+  border-radius:4rem;}
+
+.CartBtn{
+width:17rem;
+margin-left: 1rem;
+margin-top: 1rem;}
+
+.OUterMain{
+border: 2px solid orange;
+width:72rem;
+margin-left: 3rem;
+height:10rem;
+padding-left:1rem;
+padding-right: 1rem;
+margin-top: 3rem;
+}
+.container-c{
+  margin-top: 9rem;
+}
+.Comp_des{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+
+}
+.SelectBox{
+  width: 13rem;
+  height:3rem;
+}
+.CartBtnS{
+  width:20rem;
+  height:4rem;
+  margin-top: 2rem;
+}
+.iconsPM{
+  font-size:2rem;
+}
+.imputFild{
+  width:4rem;
+  height:2.5rem;
+  font-size:1.5rem;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
